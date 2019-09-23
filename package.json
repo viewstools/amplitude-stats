@@ -1,0 +1,13 @@
+{
+  "name": "amplitude",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "now --prod"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "unzipper": "^0.10.5"
+  }
+}
